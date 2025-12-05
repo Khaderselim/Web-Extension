@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Clean My Web",
+    "version": "1.0",
+    "description": "Hide unwanted elements on any website.",
+
+    "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+],
+
+    "action": {
+    "default_popup": "popup.html",
+        "default_title": "Clean My Web"
+},
+
+    "content_scripts": [
+    {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+    }
+]
+}
