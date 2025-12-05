@@ -1,4 +1,4 @@
-# Clean My Web ✂️
+# Clean My Web 
 
 A lightweight Chrome extension that lets you hide unwanted elements on any website. Perfect for removing distracting ads, annoying popups, clutter, or any content you don't want to see.
 
@@ -136,5 +136,3 @@ Found a bug or want to suggest a feature? Feel free to:
 Free to use and modify for personal use.
 
 ---
-
-**Made with ❤️ for a cleaner web experience**
